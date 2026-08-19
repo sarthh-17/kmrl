@@ -1,0 +1,16 @@
+# ==========================================
+# KMRL React Portal - Dependency Reference
+# ==========================================
+# Note: In Node.js/React projects, dependencies are normally managed 
+# automatically via package.json using 'npm install'. 
+# However, if installing manually or referencing required packages, 
+# use the command below:
+#
+# npm install react react-dom react-router-dom lucide-react recharts
+# ==========================================
+
+react
+react-dom
+react-router-dom
+lucide-react
+recharts
